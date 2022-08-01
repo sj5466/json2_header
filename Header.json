@@ -1,0 +1,21 @@
+{
+  "status": "ok",
+  "status_message": "Query was successful",
+  "data":{
+    "count":1,
+    "number":1,
+    "headerInfor":[
+      {
+        "id":0,
+        "title":"뚜레쥬르",
+        "text":"메인 메뉴",
+        "menu1":"브랜드 스토리",
+        "menu2":"새로워진 뚜레쥬르",
+        "menu3":"제품안내",
+        "menu4":"이벤트&멤버쉽",
+        "menu5":"쇼핑몰&케이크  배달신청",
+        "login":"로그인"
+      }
+    ]
+  }
+}
